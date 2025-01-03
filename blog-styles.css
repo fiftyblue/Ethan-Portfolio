@@ -1,0 +1,124 @@
+/* Blog Styles */
+.blog-container {
+    max-width: 1200px;
+    margin: 80px auto 0;
+    padding: 2rem;
+}
+
+/* Blog Header */
+.blog-header {
+    min-height: 100vh;
+    background: var(--background);
+    padding: 6rem 0 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog-header h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color: var(--text);
+}
+
+.blog-header p {
+    font-size: 1.25rem;
+    color: var(--text-light);
+    max-width: 600px;
+    margin: 0 auto 2rem;
+}
+
+.blog-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    pointer-events: none;
+    opacity: 0.03;
+    background-image: 
+        linear-gradient(45deg, var(--accent-color) 25%, transparent 25%),
+        linear-gradient(-45deg, var(--accent-color) 25%, transparent 25%),
+        linear-gradient(45deg, transparent 75%, var(--accent-color) 75%),
+        linear-gradient(-45deg, transparent 75%, var(--accent-color) 75%);
+    background-size: 20px 20px;
+    background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+    animation: patternMove 20s linear infinite;
+}
+
+.blog-header-content {
+    position: relative;
+    z-index: 2;
+    padding: 0 2rem;
+}
+
+/* Resume Buttons */
+.resume-buttons {
+    margin-top: 2rem;
+}
+
+.resume-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2rem;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.resume-button:hover {
+    transform: translateY(-2px);
+}
+
+.resume-button.primary {
+    background: var(--white);
+    border: 2px solid var(--accent-color);
+}
+
+.resume-button.primary:hover {
+    background: var(--accent-color);
+}
+
+.resume-button i {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 768px) {
+    .blog-header {
+        min-height: 60vh;
+        padding: 5rem 0 2rem;
+    }
+
+    .blog-header h1 {
+        font-size: 2.5rem;
+    }
+
+    .blog-header p {
+        font-size: 1.1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .resume-button {
+        padding: 0.875rem 1.75rem;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .blog-header h1 {
+        font-size: 2rem;
+    }
+
+    .blog-header-content {
+        padding: 0 1rem;
+    }
+} 

@@ -1,0 +1,100 @@
+**Project 1: Straunt Savant**
+
+**Background and Motivation:**
+
+*   The project creator has over nine and a half years of experience working in the restaurant industry.
+*   Observed challenges in restaurants, particularly with staff memorizing frequently changing menus and handling customer allergies at a farm-to-table restaurant with seasonal menus (changed every 3 months).
+*   Recognized the difficulty in making menu recommendations for customers with unusual allergies and the time-consuming nature of consulting chefs during busy hours.
+*   Saw an opportunity to leverage AI to address these challenges and improve restaurant operations.
+*   Inspired by a friend's use of LLMs for security threat analysis, leading to the exploration of AI's potential in the restaurant context.
+
+**Development Process:**
+
+*   Initially explored using a chat interface and uploading menu documents, highlighting the importance of data structure and formatting for AI comprehension.
+*   Transformed menu information into a JSON structure, initially a manual process, later automated using fine-tuned prompts.
+*   Transitioned from the chat interface to API calls, using the Shortcuts app on Apple devices as an initial tool.
+*   Developed an API shortcut using OpenAI's Whisper model to transcribe user inquiries, which were then processed using a prompt that included the menu data in a CSV file.
+*   Improved the system through few-shot prompting, fine-tuning, and data organization.
+*   Divided menu data into "buckets," enabling the language model to first identify the relevant data category, thus speeding up response times.
+*   Developed into a system with three core functionalities:
+    1. **Allergy Handling:** Analyzes food items, recommends suitable options for customers with allergies, and suggests necessary substitutions.
+    2. **Sales Assistance:** Helps staff learn how to sell menu items by providing recommendations based on customer preferences or chosen beverages, along with concise, persuasive descriptions.
+    3. **Operational Efficiency:** Provides quick answers to staff inquiries, reducing the need to search for managers or chefs, thus improving overall restaurant efficiency.
+*   Created a web interface accessible only within the restaurant's IP address range to control usage and costs, utilizing ChatGPT Mini for its speed and cost-effectiveness.
+*   Eventually integrated the system with a WhatsApp bot, allowing staff to interact with the system via text messages.
+
+**Outcomes and Impact:**
+
+*   Successfully created a functional AI-powered tool that addressed the initial challenges related to menu memorization, allergy handling, and sales assistance.
+*   Improved the speed and efficiency of restaurant operations by providing quick access to information.
+*   High usage of the system by restaurant staff, leading to increased token usage and demonstrating the tool's value.
+*   Significant learning experience in AI development, data structure, automation, and troubleshooting.
+*   Positive reception from restaurant staff, who found the tool indispensable.
+*   The project served as a springboard for further exploration and involvement in AI and automation projects.
+
+**Project 2: The Ridge**
+
+**Background and Motivation:**
+
+*   The project creator had a prior relationship with The Ridge, a company that had previously sponsored their content creation work.
+*   The Ridge reached out for assistance in creating a strategy for consistent social media presence across platforms.
+*   They noticed that the project creator's videos were slightly different across platforms (TikTok, Instagram, YouTube Shorts) and inquired about the reasoning behind this.
+*   The project creator explained that platform-specific nuances and algorithms necessitated these variations (e.g., TikTok watermark issue).
+*   The Ridge was interested in achieving cross-platform consistency while leveraging platform-specific best practices.
+
+**Project Scope and Approach:**
+
+*   Offered a contract to audit The Ridge's social media presence and develop a streamlined content creation process.
+*   Conducted a full-scale audit of The Ridge's social media, analyzing past content and associated data.
+*   Created a comprehensive CSV file containing all past content, data, and takeaways (why content was effective or ineffective).
+*   Educated The Ridge team on content creation tools (CapCut, Final Cut Pro, Premiere Pro) and strategies for cross-platform consistency.
+*   Addressed copyright issues related to music and content usage.
+*   Developed a flowchart illustrating the content creation process, emphasizing the importance of editing on third-party platforms before optimizing on individual social media platforms.
+*   Provided a library of copyright-free music for use in videos.
+*   Taught techniques like adding trending sounds at a low volume (1%) on platforms to leverage algorithm preferences without using copyrighted music in a professional context.
+*   Created a content campaign framework based on identifying 3-5 replicable video styles for episodic content, fostering variety and audience familiarity.
+
+**Outcomes and Impact:**
+
+*   Successfully developed a comprehensive social media strategy for The Ridge, addressing their need for cross-platform consistency and optimization.
+*   Provided valuable insights into platform-specific algorithms and best practices.
+*   Streamlined their content creation process and addressed copyright concerns.
+*   Created a resource-rich document for The Ridge to refer to and learn from.
+*   Facilitated a shift from personal brand-focused content creation to a more corporate and business-oriented approach.
+*   Highlighted the project creator's ability to simplify complex concepts and effectively teach others about social media algorithms and content strategy.
+*   Reinforced the project creator's storytelling and teaching skills, which later proved valuable in their role at Sound Mind.
+
+**Project 3: Data Dump**
+
+**Background and Motivation:**
+
+*   Sony Music recognized the limitations of relying solely on basic demographic data for marketing decisions.
+*   Expressed a desire for a richer dataset that could bridge the gap between basic information and effective marketing strategies.
+*   The project creator, a self-proclaimed "data junkie," took the initiative to explore the possibility of acquiring more insightful data.
+*   Focused on Gen Z as the target demographic due to their influence as tastemakers, their high spending on music, and their openness to new and diverse music.
+
+**Project Scope and Approach:**
+
+*   Leveraged the Sony Music University (Sony Music U) program, which consisted of part-time college student employees, as a resource for data collection.
+*   Collaborated with former managers at Sony Music U to design and implement a survey.
+*   Recruited five student leaders from different campuses to assist with the project.
+*   Developed a Google Forms survey focused on Gen Z's music consumption habits, preferences, and behaviors.
+*   Addressed logistical challenges, including survey length, incentives for participation (giveaways), and distribution methods.
+*   Deployed the survey through 48 Sony Music U students across 31 different college markets, utilizing various methods like QR codes at events (e.g., football games).
+*   Survey questions explored topics such as the emotional impact on music choices, music discovery methods, listening habits, sharing practices, and the role of music in identity formation.
+*   Gathered over 12,000 responses, exceeding the initial goal of 10,000.
+
+**Key Findings and Insights:**
+
+*   Discovered a significant number of Gen Z respondents who owned vinyl records without having a record player, indicating that vinyl ownership served as a form of self-expression and identity representation.
+*   Highlighted the importance of understanding the distinction between enjoying an artist's music and viewing the artist's brand as an extension of one's own identity.
+*   Gained insights into how Gen Z shares music, discovers new music, and where they listen to music.
+
+**Outcomes and Impact:**
+
+*   Successfully collected a substantial dataset that went beyond basic demographics, providing a deeper understanding of Gen Z's relationship with music.
+*   Organized and analyzed the data using Google Sheets and LLM tools.
+*   Delivered a presentation to Sony Music executives, including the Senior Vice President of Commercial Partnerships, sharing key findings and insights.
+*   Utilized the data to inform marketing strategies, particularly in guerrilla marketing efforts targeting Gen Z audiences.
+*   Demonstrated the project creator's ability to lead a complex data collection project, analyze large datasets, and effectively communicate findings to stakeholders.
+*   Provided Sony Music with valuable insights to improve their understanding of their target audience and enhance their marketing effectiveness.

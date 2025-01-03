@@ -1,0 +1,621 @@
+# Context Guide
+
+This guide summarizes the thoughts, preferences, and opinions expressed in the provided document.
+
+## General Context
+
+* **Values Collaboration and Teamwork:**  A strong emphasis is placed on the importance of collaborative environments, bouncing ideas off others, and the energy derived from shared missions. In-person interaction is preferred for creative synergy.
+* **Prioritizes Authenticity and Realness:**  There's a preference for genuine content, showcasing the "why" behind actions, and providing behind-the-scenes glimpses. Authenticity is seen as key to building engaged audiences and fostering trust.
+* **Data-Driven and Analytical:**  Decision-making and strategy are heavily influenced by data and analytics. Metrics are crucial for understanding performance and optimizing content. There's a focus on deeper engagement metrics beyond surface-level views.
+* **Embraces Experimentation and Learning:**  A willingness to experiment, "fail fast," and learn from mistakes is evident. There's a constant drive to improve and refine strategies through iteration and testing.
+* **Values Efficiency and Speed:**  The ability to move quickly and adapt to the fast pace of social media is considered important. Streamlined processes and clear roles are seen as essential for maintaining high velocity without sacrificing quality.
+* **Focuses on Building Community and Relationships:**  Creating a sense of community and fostering genuine connections with the audience is a primary goal. Engagement is viewed as building relationships, not just accumulating followers.
+* **Seeks Growth and New Challenges:**  A desire for personal and professional growth is a recurring theme. Stepping outside of comfort zones and embracing new challenges are seen as necessary for development.
+* **Appreciates Spontaneity and Creative Flow:**  While valuing structure, there's also an appreciation for spontaneous collaboration and the natural flow of ideas that can emerge in informal settings.
+* **Enthusiastic About AI and Innovation:** There's excitement about the potential of AI and technology to innovate and tell new stories. Finding ways to make complex concepts relatable is a key interest.
+* **Driven by Impact and Meaning:**  A desire to make a positive impact and create something meaningful is a significant motivator. The work should contribute to something larger and improve people's lives in some way.
+
+## Detailed Breakdown of Ethan’s Thoughts, Preferences, and Opinions
+
+**Collaboration & Teamwork:**
+
+* Believes in the creative chemistry that comes from sitting across the table from someone.
+* Values the unspoken flow and non-verbal cues in in-person collaboration.
+* Prefers casual, real-time collaboration over drawn-out email threads.
+* Emphasizes the importance of building a vibe where people feel comfortable sharing half-baked ideas and knowing the team has their back.
+* Thrives in collaborative environments where everyone works towards the same mission.
+* Enjoys bouncing ideas off each other and challenging each other to grow.
+* Believes a small, focused team is ideal for content creation.
+* Highlights the importance of team alignment around a clear mission.
+
+**Authenticity & Realness:**
+
+* Appreciates spontaneity in creative processes.
+* Values the ability to be oneself at work.
+* Believes growth only happens when you're uncomfortable.
+* Favors behind-the-scenes content to connect with an audience.
+* Sees video as a medium for self-expression and sharing exciting things authentically.
+* Emphasizes peeling back the curtain to make audiences feel part of the journey.
+* Values raw, behind-the-scenes content that feels real over polished, generic content.
+* Prefers content that feels personal and connects on a human level.
+
+**Data & Analytics:**
+
+* Treats analytics like a report card for content performance.
+* Focuses on specific metrics like hook success and viewer retention.
+* Pays close attention to qualitative feedback like comments, DMs, and shares.
+* Sees tagging and remixing as indicators of starting conversations.
+* Doubles down on what works based on data.
+* Aims to establish a repeatable formula for success based on data.
+* Believes data is the foundation of everything in content creation.
+* Uses data to optimize content for different platforms.
+* Tracks metrics like retention rates and shares to measure success.
+
+**Experimentation & Learning:**
+
+* Believes in the "fail fast" mantra in content creation.
+* Sees mistakes as opportunities to gather intel and refine strategy.
+* Encourages treating each post like a stepping stone.
+* Views every post as an experiment.
+* Is constantly analyzing, tweaking, and testing.
+* Is early enough in their content creation journey to be visibly experimenting and learning.
+* Is open to experimenting with higher production values while maintaining authenticity.
+* Views trying new things as a way to chase the next level.
+
+**Efficiency & Speed:**
+
+* Values the flexibility to step away when needing to recharge.
+* Prefers quick chats over long email exchanges.
+* Believes in building solid systems for efficient content creation.
+* Emphasizes breaking processes into manageable chunks.
+* Believes in a "quality control" mindset without slowing down momentum.
+* Highlights the importance of clear roles and trust in the system for high velocity.
+
+**Community & Relationships:**
+
+* Focuses on creating a community, not just chasing followers.
+* Believes social media should be a two-way street for feedback and idea sharing.
+* Values engagement that makes people feel genuinely part of the process.
+* Sees building relationships as the core of true engagement.
+* Prioritizes qualitative signs of engagement like comments and conversations.
+* Values having a smaller group of die-hard fans over a larger group of casual listeners.
+* Aims to build loyalty by making the audience feel like they're in on something special.
+
+**Growth & Challenges:**
+
+* Believes growth only happens when you're uncomfortable.
+* Wants to push oneself in challenging environments.
+* Seeks out "jams" that force adaptation and growth.
+* Finds excitement in the energy of a place where everyone is chasing something bigger.
+* Sees LA as a city that dares you to push your limits.
+* Is always chasing the next level of personal and professional development.
+
+**Spontaneity & Creative Flow:**
+
+* Values the spontaneity of collaborative brainstorming sessions.
+* Appreciates the "unspoken flow" that happens in person.
+* Prefers environments where creativity happens naturally, without forced energy.
+* Enjoys open layouts where overhearing ideas can spark new thoughts.
+
+**AI & Innovation:**
+
+* Works closely with AI engineers.
+* Developed a tool using AI for restaurant staff.
+* Is excited about the potential of AI in the tech world.
+* Sees AI as a way to innovate and tell new stories.
+* Enjoys figuring out how to make complex AI concepts relatable.
+
+**Impact & Meaning:**
+
+* Works because of the potential to create something meaningful.
+* Fears looking back with regret for not chasing things cared about.
+* Sees work as building, creating, and connecting.
+* Is driven by the chance to make an impact.
+* Wants to help build community and simplify complex ideas.
+* Desires to create things that make people's lives easier.
+* Finds fulfillment in leaving things better than found and knowing the work matters.
+
+
+---
+
+
+# General Context
+
+* Prefers work environments that balance freedom and structure, fostering both creativity and focused execution.
+* Values collaboration as a structured process with room for creative bursts.
+* Shows a strong interest in the Los Angeles tech and innovation scene.
+* Favors a strategic approach to leveraging different AI models based on their strengths and cost-effectiveness.
+* Believes in the importance of verified reference data for preventing AI hallucinations.
+* Advocates for a comprehensive SEO strategy centered on topic clusters and user intent.
+* Prioritizes clear communication, actionable insights, and measurable impact in professional settings.
+* Values personal growth and development, both professionally and personally, and seeks environments that support this.
+* Is motivated by impactful work and contributing to something meaningful.
+
+# Detailed Breakdown
+
+## Work Environment Preferences
+
+* Prefers work environments offering "the space to play and the clarity to focus."
+* Values a balance between free experimentation and alignment with goals.
+* Enjoys brainstorming and collaborative idea generation (as exemplified by the whiteboard example).
+* Finds structured phases and creative bursts to be a successful approach.
+* Perceives rigidly structured environments as potentially stifling.
+* Sees freeform approaches as occasionally scattered.
+* Appreciates dedicated spaces for focused work and team collaboration.
+
+## Collaboration Style
+
+* Views collaboration as a "rhythm" of structured phases and creative bursts.
+* Emphasizes aligning on big-picture goals before diving into brainstorming.
+* Values breaking work into clear tasks with tight feedback loops and regular check-ins.
+* Believes in group reviews to capture lessons learned.
+
+## Interest in Location (Los Angeles)
+
+* Feels a natural curiosity for innovation fits within the LA environment.
+* Has a long-standing interest in the region's tech scene, dating back to childhood.
+* Is motivated by being in a location where early adopters, creators, and innovators converge.
+* Has been residing in LA for a couple of months and is actively exploring the tech and culture.
+
+## Approach to Leveraging LLMs
+
+* Favors a blended approach using multiple LLMs based on task complexity and requirements.
+* Would use ChatGPT-4o Mini for complex, high-value descriptions needing nuance.
+* Considers Google's Gemini 1.5 suitable for mid-level tasks with its ability to manage large context windows.
+* Views Meta's Llama 3 as effective for high-volume, straightforward descriptions due to scalability and cost-effectiveness.
+* Emphasizes the importance of A/B testing across models for continuous refinement.
+
+## Prompt Engineering and Quality Control for AI
+
+* Believes prompts should balance specificity and flexibility.
+* Would create standardized templates with clear parameters (tone, length, keywords).
+* Advocates for including examples of desired outputs in prompts.
+* Suggests iterative testing to ensure consistency.
+* Would implement prompt engineering techniques to minimize token usage.
+* Emphasizes a layered approach to quality control, starting with automated AI tools.
+* Values cross-referencing with verified data sources for fact-checking.
+* Sees human review as the final layer to catch subtle inconsistencies.
+* Believes in incorporating reviewer insights for continuous improvement.
+
+## Preventing AI Hallucinations
+
+* Strongly believes providing more verified reference data is more effective than overly specific constraints in preventing AI hallucinations.
+* Supports this with an example from the development of StrauntSavant, where reliable data proved crucial for accuracy.
+
+## SEO and Topic Clusters
+
+* Identifies identifying user search queries and meeting their needs as the starting point for topic cluster development.
+* Favors using tools like Google Analytics and Ahrefs to uncover high-value keywords and trending themes.
+* Stresses understanding user intent beyond just search volume.
+* Envisions topic clusters as a web with the pillar page as the central anchor.
+* Emphasizes detailed subtopics linking back to the pillar page.
+* Prioritizes optimizing each piece of content for specific keywords and answering user questions comprehensively.
+* Values internal linking for user experience and signaling authority to search engines.
+* Sees AI and machine learning as crucial for keyword research, content planning, and optimization.
+* Has used AI to generate content drafts and suggest adjustments based on search patterns.
+* Believes machine learning can dynamically fine-tune strategies based on performance data.
+
+## Defining and Measuring SEO Success
+
+* Defines SEO success as meaningful engagement and measurable growth, not just a traffic spike.
+* Focuses on KPIs like organic search traffic, search rankings, and conversion rates.
+* Emphasizes deeper analysis of user behavior (time on site, page views, conversion rates).
+* Suggests using tools like Google Analytics and heatmaps to track these metrics.
+* Values regular performance reviews for agile strategy adjustments.
+
+## Evolution of Search Intent with AI Assistants
+
+* Believes search intent with AI assistants shifts from keyword strings to natural conversation.
+* Emphasizes the AI's ability to understand tone, context, and previous interactions.
+* Sees the future of search as conversational, natural, and straight to the point.
+
+## Motivations and Values
+
+* Is driven by a desire to get things "right," not just done.
+* Is drawn to the process of finding the smartest way forward and building lasting solutions.
+* Enjoys collaborating with curious and skeptical individuals who constantly seek improvement.
+* Is motivated by the pursuit of understanding and believes in progress over tradition.
+* Is open to pivoting and embracing change.
+* Enjoys rolling up his sleeves, solving problems, and creating tangible impact.
+* Values making life better in ways that extend beyond immediate visibility.
+
+## Work-Life Balance and Career Goals
+
+* Acknowledges past struggles with work-life balance.
+* Has learned that overextending oneself doesn't guarantee success.
+* Prioritizes channeling effort into environments that support professional and personal well-being.
+* Values environments that genuinely prioritize balance.
+* Seeks a culture where hard work is valued alongside the need for rest and recharge.
+* Applied for the specific job due to its alignment with his interests in AI, data-driven growth, and e-commerce innovation.
+* Thrives on breaking down complex strategies, finding creative solutions, and scaling results.
+* Is drawn to Demand.io's potential for impact and its culture of creating trends.
+* Sees the role as a perfect intersection of current skills and desired growth areas.
+
+---
+
+# RESUME LONG
+# Ethan Welsh
+West Hollywood, California  
+[ethancareer@icloud.com](mailto:ethancareer@icloud.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/ethanjwelsh)  
+
+## Summary  
+A dynamic and results-oriented marketing professional fueled by a genuine enthusiasm for innovation and a commitment to data-driven strategies. Possessing a unique and synergistic blend of creative vision and rigorous analytical expertise, I excel at translating complex data insights into impactful marketing campaigns that drive measurable growth and engagement. My approach is inherently collaborative and action-oriented, fostering strong teamwork and shared purpose to achieve ambitious goals. I am adept at leveraging sophisticated analytics platforms and emerging AI technologies, not merely as tools, but as integral components for understanding audience behavior, optimizing campaign performance, and identifying opportunities for strategic advantage. My experience extends across both the fast-paced tech and vibrant entertainment industries, where I have a proven track record of orchestrating successful product launches, significantly boosting user acquisition, and navigating intricate marketing challenges with strategic foresight. I thrive in environments that value both creative exploration and focused execution, where authenticity and a willingness to experiment are encouraged. Driven by a desire to create meaningful impact and build genuine connections, I am passionate about leveraging technology to simplify complex ideas and contribute to initiatives that make a tangible difference. My communication style is adaptable, ranging from informal and passionate when fostering team collaboration to structured and professional in formal settings, always emphasizing the "why" behind actions and the importance of clear, actionable insights. 
+
+## Work Experience  
+### Marketing Representative
+**Sony Music Entertainment**
+*Philadelphia, PA | Sep 2023 – Present*
+* **Spearheaded and Orchestrated Comprehensive Product Marketing Campaigns:** Led end-to-end product marketing initiatives, demonstrating a deep understanding of market dynamics and audience engagement. This involved meticulous supply chain coordination to ensure product availability and impactful nationwide activations designed for maximum reach and resonance. Your ability to seamlessly integrate these elements reflects a strong grasp of operational logistics and strategic marketing execution.
+* **Managed and Optimized Budgets Exceeding $25K with Financial Acumen:**  Demonstrated fiscal responsibility and strategic budget allocation skills while overseeing budgets exceeding $25,000. This involved rigorous tracking, ensuring accountability across all campaign elements, and optimizing resource allocation to achieve maximum impact and a smooth execution aligned with defined objectives. This showcases your ability to handle significant financial responsibility and deliver results within set constraints.
+* **Achieved a Remarkable 35% Increase in Campus Streaming Rates Through Data-Driven Gen Z Engagement Strategies:**  Orchestrated a significant 35% surge in campus streaming rates by leveraging data analytics to develop and execute highly targeted marketing campaigns specifically resonating with Gen Z. This involved deep analysis of consumption patterns and preferences, showcasing your ability to translate data insights into actionable strategies that yield tangible results. This highlights your understanding of the importance of data in driving marketing success and your ability to connect with a key demographic.
+* **Directed High-Performing Cross-Functional Project Teams Across Diverse Marketing Channels:**  Successfully led and managed cross-functional projects spanning social media, digital platforms, and grassroots marketing initiatives. This demonstrates your ability to collaborate effectively with diverse teams, aligning strategies and ensuring cohesive campaign execution across various touchpoints. Your emphasis on teamwork and shared missions, as highlighted in your context, is evident in this ability to drive alignment and achieve synergistic results.
+* **Masterminded Influencer and Brand Partnerships through Strategic Negotiation and Relationship Building:**  Effectively spearheaded negotiations between influencers and various brands, showcasing strong interpersonal and persuasive skills. This resulted in the formation of robust partnerships, ensuring strategic alignment between all parties, and ultimately driving measurable success for both the artist and the brand. This highlights your understanding of the value of authentic connections and collaborative relationships, aligning with your emphasis on building community and genuine engagement. Your proactive approach to fostering these relationships underscores your commitment to impactful and meaningful collaborations.
+
+### Digital Marketing Specialist | Director of Content Creation
+**SoundMind App Startup**
+*Los Angeles, CA | Apr 2023 – Feb 2024*
+**Director of Content Creation:**
+* **Engineered Exponential 9.5x Growth on TikTok, Amplifying App Visibility and Engagement through Authentic Storytelling:**  Successfully drove an impressive 9.5x growth on TikTok, significantly boosting the app's visibility and user engagement. This achievement reflects your deep understanding of the platform's algorithm and your ability to create compelling, authentic content that resonates with the target audience. Your focus on genuine content and making audiences feel part of the journey, as noted in your context, likely played a key role in this success.
+* **Streamlined Content Workflows and Implemented Automated Systems to Optimize Team Efficiency:**  Proactively identified areas for improvement and implemented streamlined workflows and automated systems, significantly enhancing the team's efficiency and productivity. This demonstrates your commitment to efficiency and speed, as well as your ability to leverage technology to optimize processes, aligning with your value for streamlined operations and clear roles.
+* **Cultivated a Cohesive and High-Performing Creative Team of Five:**  Effectively led and mentored a team of five, fostering a collaborative environment to align creative direction and ensure campaign consistency across various platforms. This reflects your strong leadership skills and your belief in the power of teamwork and a shared mission, as emphasized in your context. Your ability to build a comfortable environment for sharing ideas likely contributed to the team's success.
+**Digital Marketing Specialist:**
+* **Quadrupled Daily User Activity through Data-Driven Optimization and Platform Expertise:**  Successfully increased daily user activity by an impressive 4x through the strategic application of data-driven strategies and insights gleaned from platforms like Sprout Social and Google Analytics. This directly demonstrates your analytical prowess and your ability to leverage data to inform and optimize marketing efforts, aligning with your strong emphasis on data-driven decision-making.
+* **Elevated SEO Performance and User Engagement Through Strategic Blog Initiatives:**  Conceptualized and implemented a successful blog initiative, collaborating effectively with copywriters to improve both SEO rankings and user engagement. This demonstrates your understanding of comprehensive SEO strategies, including the importance of understanding user intent and creating valuable content, as highlighted in your context.
+* **Optimized Paid Social Campaigns with Tailored Content for Enhanced Resonance and ROI:**  Strategically optimized paid social media campaigns by developing tailored content that differed significantly from organic posts, leading to improved resonance and return on investment. This reflects your understanding of the nuances of paid advertising and your ability to adapt content strategy to maximize effectiveness across different channels. Your focus on data to optimize content for different platforms is evident in this approach.
+
+### Content Creator and Social Media Consultant
+**Personal Ventures and Consulting**
+*Hybrid | Mar 2021 – Ongoing*
+* **Masterminded Tailored Social Media Growth Strategies for Clients, Achieving Exponential Audience Expansion:** Developed and executed highly effective, tailored social media strategies for various artists and brands, resulting in remarkable growth. This includes a **600x increase in Andrea Bejar's TikTok following** and a **150x increase in her Instagram following**, showcasing your ability to understand diverse audiences and implement strategies that drive significant growth. This highlights your entrepreneurial spirit and your ability to deliver tangible results for clients.
+* **Cultivated a Substantial Personal Social Media Presence of Over 850,000 Followers Through Authentic Engagement and Strategic Content Creation:**  Built and nurtured a significant personal social media presence exceeding 850,000 followers. This achievement underscores your mastery of social media engagement and your ability to create compelling content that resonates with a large audience. Your collaborations with prominent brands like Mizuno, Topgolf, and Ridge Wallet further demonstrate your influence and credibility in the digital space. This aligns with your emphasis on authenticity and building genuine connections.
+* **Conceptualized and Executed Viral Marketing Campaigns with Significant Reach and Impact:**  Successfully produced viral campaigns, exemplified by Golf Pride’s TikTok series which garnered over **17.2 million views**. This achievement demonstrates your creative ability to develop engaging content that captures widespread attention, effectively driving product awareness and ultimately contributing to sales. This highlights your understanding of what makes content shareable and your ability to leverage humor and relatable cultural references, as described in your context. Your understanding of the "why" behind actions is evident in your ability to craft campaigns that resonate deeply with the target audience.
+
+## Projects and Achievements  
+##### Distinguished Participant, AI4 North America Conference: 
+Recognized for ongoing contributions to the field of Artificial Intelligence, evidenced by repeated invitations to the AI4 North America Conference, the largest AI gathering in North America. These complimentary passes acknowledge your proactive engagement and valuable insights within the AI community, reflecting your genuine enthusiasm for AI and continuous pursuit of knowledge in this domain.
+##### Pioneering Member, Exclusive TikTok Creator Program:
+Selected as an early participant in the highly selective TikTok Creator Program, demonstrating your recognized expertise and influence within the platform. This invitation granted you direct access to a personal TikTok liaison, weekly in-depth analytic reports, and exclusive strategic sessions with experts from TikTok, YouTube, Instagram, and Snapchat. This experience showcases your early adoption of emerging platforms, your data-driven approach to content creation, and your commitment to understanding the nuances of social media algorithms to maximize impact.
+##### Co-founder and Architect of StrauntSavant: Revolutionizing Restaurant Operations with AI:
+Took the initiative to co-found StrauntSavant, an innovative AI platform designed to optimize critical restaurant operations, specifically focusing on allergy safety and enhanced guest service. This entrepreneurial endeavor showcases your proactive problem-solving skills and your passion for leveraging AI to create tangible solutions. Significantly, you independently mastered API development, Retrieval-Augmented Generation (RAG) techniques, and product design principles to personally build and successfully deploy this impactful platform, demonstrating a remarkable capacity for self-directed learning and technical proficiency. This aligns with your enthusiasm for AI and your drive to create meaningful impact.
+##### Spearheaded the Sony Data Dump Initiative: Driving Data-Informed Marketing Strategies at Scale:
+Conceptualized and directed a comprehensive nationwide survey encompassing over 12,000 Gen Z respondents. You expertly translated this complex dataset into clear, actionable marketing strategies that demonstrably improved campaign precision by 20%. The significance of your analysis is underscored by the adoption of these data-driven strategies by executive leadership, highlighting your ability to derive impactful insights from data and influence key decision-making processes at a large organization. This project exemplifies your commitment to data-driven decision-making and your ability to translate complex information into practical solutions.
+##### Orchestrated High-Impact Social Media Campaigns for Ridge Wallet: Amplifying Brand Cohesion and Engagement:
+Led a strategic and comprehensive audit of Ridge Wallet's social media channels, identifying key areas for improvement and presenting a refreshed approach to enhance brand cohesion across platforms. Subsequently, you launched targeted campaigns that collectively achieved over 5 million views, significantly boosting user engagement and demonstrating your ability to develop and execute successful social media strategies that drive measurable results for established brands. This aligns with your expertise in social media growth and your ability to create engaging content that resonates with target audiences.
+
+## Skills  
+### Technical Skills & Tools
+* **Data Analysis & Interpretation:**  Ability to analyze data to inform decisions and optimize strategies.
+* **Data-Driven Decision Making:** Skilled in using data and analytics to guide actions and choices.
+* **Metrics Analysis:** Proficient in analyzing metrics to understand performance and impact.
+* **Engagement Metrics Analysis:** Specifically focused on analyzing deeper engagement metrics.
+* **SEO Tools Proficiency:**  Experienced in using tools like Google Analytics and Ahrefs for keyword research and SEO analysis.
+* **Google Analytics Expertise:**  Proficient in using Google Analytics for data analysis.
+* **Ahrefs Expertise:** Proficient in using Ahrefs for keyword research and SEO analysis.
+* **AI Tool Development:** Experience in developing AI tools (example: AI tool for restaurant staff).
+* **LLM Understanding and Application:**  Knowledge of various Large Language Models and their strengths (ChatGPT-4o Mini, Google's Gemini 1.5, Meta's Llama 3).
+* **Prompt Engineering:**  Skilled in crafting effective prompts for AI models.
+* **AI Quality Control:**  Understanding of methods to ensure the quality and accuracy of AI outputs.
+* **Data Verification:** Knowledge of the importance of verified reference data for AI.
+* **Machine Learning Fundamentals:** Basic understanding of machine learning principles.
+* **API Familiarity:** Experience working with APIs.
+* **CRM Platforms (Salesforce, HubSpot) Proficiency:** Experience with CRM platforms like Salesforce and HubSpot.
+* **Adobe Creative Suite Proficiency:** Familiar with the Adobe Creative Suite.
+* **Final Cut Pro Proficiency:** Skilled in using Final Cut Pro.
+* **Heatmap Analysis:**  Understanding of using heatmaps to analyze user behavior.
+
+Marketing & Content Expertise
+* **Content Strategy Development:**  Ability to develop and implement content strategies.
+* **Storytelling:**  Skilled in using stories and anecdotes to connect with audiences.
+* **Anecdotal Communication:**  Proficient in using personal experiences to illustrate points.
+* **Adaptable Communication:** Ability to adjust communication style based on context and audience.
+* **Authentic Communication:**  Focuses on genuine and honest communication.
+* **Engaging Content Creation:**  Ability to create content that captures audience attention.
+* **Viral Content Creation:** Understanding of factors that contribute to content virality.
+* **Social Media Content Creation:** Experience creating content for social media platforms.
+* **Video Content Creation:**  Experience in creating video content.
+* **Technical Content Creation:** Ability to create clear and structured technical content.
+* **Narrative Content Creation:** Ability to create casual and conversational narrative-driven content.
+* **Thought Leadership Content Creation:** Ability to create insightful and approachable content for industry analysis.
+* **Blog Post Creation:** Experience in writing engaging and informative blog posts.
+* **Headline Writing:**  Skill in crafting attention-grabbing headlines.
+* **Call to Action Implementation:**  Understanding how to effectively use calls to action.
+* **Data-Driven Campaigns:**  Experience in developing and executing marketing campaigns based on data analysis.
+* **Social Media Growth Strategies:**  Knowledge of strategies to grow social media presence.
+* **Influencer Partnerships:**  Experience in collaborating with influencers.
+* **User Acquisition Strategies:**  Understanding and implementation of strategies to acquire new users.
+* **SEO Strategy Development and Implementation:**  Expertise in developing and implementing comprehensive SEO strategies.
+* **Keyword Research:**  Proficient in using various methods and tools for keyword research.
+* **Understanding User Intent:**  Ability to understand the underlying intent behind user searches.
+* **Topic Cluster Strategy:**  Knowledge and application of topic cluster methodologies for SEO.
+* **Internal Linking Strategies:**  Understanding the importance and implementation of internal linking.
+* **Content Optimization:**  Skills in optimizing content for search engines and user experience.
+* **Email Marketing:** Experience with email communication and strategy.
+* **Adaptable Tone for Different Audiences:**  Ability to adjust the tone of writing for technical, personal, or professional audiences.
+* **Strategic Technology Application for Marketing:** Ability to strategically apply technology to marketing efforts.
+* **Understanding of SEO evolution with AI:** Knowledge of how AI assistants are changing search intent.
+
+Interpersonal & Collaborative Skills
+* **Collaboration:** Strong ability to work effectively in team environments.
+* **Teamwork:** Values and contributes to a positive and productive team environment.
+* **Communication (Verbal & Written):** Excellent communication skills, both written and verbal.
+* **Conversational Communication:**  Adopts a conversational and approachable communication style.
+* **Active Listening:**  Values listening and understanding different perspectives.
+* **Building Relationships:**  Focuses on building genuine connections and relationships.
+* **Community Building:**  Aims to foster a sense of community among audiences.
+* **Empathy:**  Ability to connect with audiences on a human level.
+* **Adaptability:**  Flexible and adaptable to changing situations and priorities.
+* **Openness to Feedback:**  Values feedback and uses it for learning and improvement.
+* **Cross-functional Collaboration:** Experience collaborating with individuals from different teams (e.g., AI engineers).
+* **Negotiation (implied):** Experience in working with influencers suggests negotiation skills.
+* **Presentation Skills (implied):** Ability to articulate ideas and strategies effectively.
+
+Strategic & Analytical Skills
+* **Strategic Thinking:**  Ability to think strategically and develop long-term plans.
+* **Problem-Solving:**  Enjoys hands-on problem-solving and finding effective solutions.
+* **Analytical Skills:**  Strong analytical skills for interpreting data and making decisions.
+* **Critical Thinking:**  Ability to think critically and evaluate information.
+* **Logical Thinking:**  Organizes thoughts logically and presents information clearly.
+* **Process Optimization:**  Focuses on streamlining processes for efficiency.
+* **Project Management (implied):**  Experience in managing content creation and marketing projects.
+* **Goal Setting and Achievement:**  Focuses on setting clear goals and achieving measurable outcomes.
+* **Prioritization:**  Ability to prioritize tasks and focus on what's most important.
+* **Risk Assessment (implied):** Understanding the "fail fast" methodology suggests an awareness of risk.
+
+Personal & Professional Attributes
+* **Enthusiasm:**  Expresses genuine excitement and passion.
+* **Passion for Technology and Innovation:**  Strong interest in technology and innovation, particularly AI.
+* **Growth Mindset:**  Driven by personal and professional development and embraces challenges.
+* **Learning Agility:**  Quickly learns new concepts and adapts to new situations.
+* **Experimentation:**  Willing to experiment and try new things.
+* **Resilience:**  Views mistakes as learning opportunities and bounces back from setbacks.
+* **Efficiency:**  Values efficiency and speed in execution.
+* **Results-Oriented:**  Focuses on achieving measurable results.
+* **Authenticity:**  Values being genuine and true to oneself.
+* **Curiosity:**  Possesses a natural curiosity and a desire to learn.
+* **Impact-Driven:**  Motivated by making a positive impact and contributing to meaningful work.
+* **Adaptability:**  Understands different contexts and tailors approach accordingly.
+* **Humility:**  Maintains a confident but humble tone.
+* **Professionalism:**  Maintains professionalism suitable for a work environment.
+* **Initiative:**  Takes initiative and is proactive.
+* **Detail-Oriented:** Pays attention to detail, particularly in proofreading and quality control.
+* **Time Management (implied):** Ability to manage time effectively to meet deadlines.
+* **Self-Awareness:**  Understands personal strengths and weaknesses.
+* **Commitment to Quality:**  Driven by getting things "right," not just done.
+* **Openness to Change:**  Willing to pivot and embrace change.
+
+Creative & Conceptual Skills
+* **Creative Thinking:**  Generates new ideas and approaches.
+* **Brainstorming:**  Enjoys and is effective in brainstorming sessions.
+* **Conceptualization:**  Ability to grasp and explain complex concepts in a relatable way.
+* **Visual Communication (implied):** Appreciation for the use of visuals in content.
+
+Work Environment Preferences (Implied Skills)
+* **Preference for Collaborative Environments:** Thrives in environments that foster teamwork.
+* **Preference for Flexible Environments:** Values a balance between freedom and structure.
+* **Preference for Fast-Paced Environments:**  Enjoys the ability to move quickly and adapt.
+* **Appreciation for Open Communication:** Values environments where ideas can be freely shared.
+* **Desire for Balanced Work Environment:** Seeks environments that support well-being and work-life balance.
+
+AI & Machine Learning Specific Skills
+* **Understanding of AI Potential:**  Recognizes the potential of AI in various applications.
+* **Knowledge of AI Limitations (Hallucinations):** Aware of the issue of AI hallucinations and strategies for prevention.
+* **A/B Testing for AI Models:**  Understands the importance of A/B testing across different AI models.
+* **Prompt Engineering Techniques for Token Minimization:**  Knowledge of methods to optimize prompts for cost-effectiveness.
+* **Layered Approach to AI Quality Control:**  Advocates for a multi-step process for ensuring AI output quality.
+* **Understanding of AI in SEO:**  Knowledge of how AI and machine learning impact SEO strategies.
+* **Using AI for Content Creation:** Experience utilizing AI for content drafts and suggestions.
+* **Understanding of Machine Learning for SEO Optimization:** Believes machine learning can fine-tune SEO strategies.
+
+Location Specific Knowledge & Interest
+* **Awareness of Los Angeles Tech Scene:**  Has a specific interest in the tech scene in Los Angeles.
+* **Understanding of LA as an Innovation Hub:**  Recognizes Los Angeles as a hub for early adopters and innovators.  
+
+## Education  
+**Drexel University**  
+*Philadelphia, PA*  
+### Bachelor of Science in the Music Industry  
+- *Minor in Business Administration*  
+### Bachelor of Arts in Communications and Media Studies  
+- *Previously completed a minor in Communications and Media Studies; now pursuing a full bachelor's degree remotely.*  
+
+---
+
+## Style Guide Based on Your Responses
+
+This style guide outlines your writing style, aiming to maintain consistency and adapt it effectively for various communication needs.
+
+### 1. General Style Overview
+
+Your writing style is characterized by:
+
+* **Enthusiastic and Passionate:** You express genuine excitement and interest in the topics you discuss. This comes across through word choice and exclamatory phrasing.
+* **Conversational and Approachable:** Your language is informal, using contractions, colloquialisms ("ya know?", "big on," "hashing out"), and a direct, friendly tone. It feels like you're talking directly to the reader.
+* **Story-Driven and Anecdotal:** You frequently use personal stories and examples to illustrate your points, making your explanations relatable and engaging.
+* **Collaborative and Team-Oriented:** You highlight the importance of teamwork and shared experiences, often using "we" and emphasizing collective effort.
+* **Action-Oriented and Results-Focused:** You emphasize taking initiative, experimenting, and driving towards measurable outcomes. You frequently mention data, metrics, and optimization.
+* **Adaptable and Flexible:** You demonstrate an understanding of different contexts and the need to tailor your approach based on the situation (e.g., platform-specific video edits).
+* **Authentic and Genuine:** Your voice feels sincere and honest, sharing both successes and learnings from failures.
+* **Tech-Savvy and Aware:** You incorporate relevant technical terms and demonstrate familiarity with digital platforms and trends.
+* **Slightly Informal but Professional:** While conversational, you maintain a level of professionalism suitable for a work environment, avoiding overly casual or unprofessional language.
+
+**Key Tendencies:**
+
+* Use of rhetorical questions to engage the reader.
+* Incorporation of humor and relatable cultural references.
+* Emphasis on the "why" behind actions and decisions.
+* Use of bold text for emphasis.
+* Occasional use of parentheses for added thoughts or asides.
+
+### 2. Categorical Style Guidelines
+
+#### Application Questions
+
+* **Maintain Enthusiasm and Passion:** Let your genuine interest in the role and the company shine through. Use positive and energetic language.
+* **Illustrate with Specific Examples:**  Like your responses, use concrete anecdotes and experiences to back up your claims and demonstrate your skills. Don't just say you're collaborative; describe a collaborative experience.
+* **Show, Don't Just Tell:**  Instead of stating qualities, demonstrate them through your narratives. Your adaptability is shown in how you adjusted video formats, not just by saying you are adaptable.
+* **Structure with Clear Paragraphs:** Organize your thoughts logically, with each paragraph focusing on a specific point or example.
+* **Address the "Why":** Explain your motivations and the reasoning behind your actions. As you mentioned, focusing on the "why" resonates.
+* **Use a Confident but Humble Tone:** Express your capabilities confidently while acknowledging the value of teamwork and continuous learning.
+* **Incorporate Relevant Keywords:**  Consider the keywords used in the job description and subtly integrate them into your responses where appropriate.
+
+**Example:** Instead of saying "I'm good at problem-solving," say, "This project was a whirlwind—a perfect storm of tight deadlines, minimal resources, and a lot of creative problem-solving. My friend came to me with a simple ask..."
+
+#### Cover Letters
+
+* **Shift Towards a More Formal Tone:** While retaining your enthusiasm, reduce the use of very casual language and slang. Opt for more formal vocabulary and sentence structures.
+* **Structured and Concise:**  Follow a standard cover letter format (introduction, skills/experience, fit with the company, closing). Be direct and avoid rambling.
+* **Highlight Key Skills and Achievements:**  Clearly articulate how your skills and experience align with the requirements of the role. Quantify your achievements whenever possible (e.g., "increased watch time by 25%").
+* **Demonstrate Research and Understanding:** Show that you've researched the company and understand its mission and values. Connect your experiences to their goals.
+* **Maintain Enthusiasm, but Professionally:** Express your excitement about the opportunity in a way that is suitable for a formal application.
+* **Proofread Carefully:** Ensure your cover letter is free of grammatical errors and typos.
+
+**Example:** Instead of "Funny thing is, I've already made the leap," in a cover letter, consider: "My proactive nature led me to relocate to West Hollywood, demonstrating my commitment to pursuing opportunities in dynamic environments."
+
+#### Emails
+
+* **Concise and Direct:** Get straight to the point. Clearly state the purpose of your email in the opening sentence.
+* **Clear Subject Line:** Use a subject line that accurately reflects the email's content and urgency.
+* **Professional Salutation and Closing:** Use appropriate greetings and sign-offs (e.g., "Dear [Name]," "Sincerely,").
+* **Personalize When Appropriate:** While being direct, maintain a personal touch, especially in internal communications. Referencing shared experiences or inside jokes can be suitable in the right context.
+* **Actionable Language:** Clearly indicate any required actions and deadlines.
+* **Maintain a Positive and Collaborative Tone:** Even in challenging situations, aim for a constructive and helpful tone.
+
+**Example:** Instead of a lengthy explanation, for a quick update, consider: "Subject: Quick Update on [Project] -  We saw a 25% increase in average watch time after adjusting the initial hook. More details below."
+
+#### Blog Posts
+
+The tone for blog posts should be adapted based on the intended audience and the topic:
+
+* **Technical/How-To Posts:**  Maintain a clear and structured approach, similar to your application questions, but potentially with more detail and technical jargon. Enthusiasm can still be present, especially when explaining complex concepts in an accessible way.
+* **Personal/Narrative Posts:** Lean into your storytelling abilities. Adopt a more casual and conversational tone, similar to your personal anecdotes in the provided text. Humor and relatable experiences are encouraged.
+* **Thought Leadership/Industry Analysis:**  Strike a balance between being insightful and approachable. Maintain a professional tone while still injecting your passion and perspective. Use data and examples to support your arguments.
+
+**General Recommendations for Blog Posts:**
+
+* **Engaging Headlines:**  Capture the reader's attention and clearly state the topic.
+* **Clear Structure with Headings and Subheadings:**  Make the content easy to scan and digest.
+* **Use of Visuals:**  Incorporate images, videos, or other media to enhance engagement.
+* **Call to Action:**  Encourage readers to comment, share, or take a specific action.
+
+---
+
+I’ve always believed that passion and perseverance are the keys to turning creativity into something meaningful. Growing up in the heart of Philadelphia, my life has been shaped by a mix of creativity, resilience, and a love for storytelling. Whether it was experimenting with video editing as a kid or navigating unexpected challenges later in life, I’ve always found ways to combine my interests in media, communication, and music into a career that feels authentic to me.
+
+Early Life and Foundations
+
+My childhood was full of creativity and community. I grew up in a neighborhood where diverse voices and cultures were everywhere, sparking my curiosity about how people connect. My parents always encouraged us to be creative. They weren’t big on letting us watch too much TV, but they made sure we were out experiencing the world. Honestly, if kids today say “touch grass,” I guess I was doing that before it was cool.
+
+My sister and I spent hours making short films and playing around with editing software on our old iPads. It was all about creating something from nothing, and that feeling stuck with me. I loved making things my own—stories, visuals, ideas—whatever I could create, I wanted to dive in headfirst.
+
+Navigating Challenges and Finding Purpose
+
+College threw some unexpected challenges my way, especially during the pandemic. Like a lot of people, I found myself struggling when everything shut down. Going back home for a semester was tough, and I felt pretty aimless. My mom pushed me to get a job, which led me to Golf Galaxy, of all places. I’d never worked with golf clubs before, but I dove in, learning how to fix and regrip them. It was a reminder that even mundane things can become meaningful if you lean into them.
+
+While I was there, I started filming little videos of what I was doing. I didn’t think much of it, but when I posted one on TikTok, it blew up. Within a weekend, I had over 2 million views across three videos. That was my first real taste of the power of storytelling on social media, and I was hooked.
+
+Turning Social Media Into a Platform
+
+What started as a creative outlet at Golf Galaxy turned into something much bigger. I built a TikTok following by combining humor, authenticity, and relatable content. Within a week, I had 400,000 followers and partnerships with brands like Mizuno and Top Golf. It wasn’t just about going viral—it was about connecting with people through storytelling and creating content that felt genuine.
+
+Academic and Professional Growth
+
+At Drexel University, I pursued degrees in Communications and Media Studies and Music Industry, with a Business Administration minor. These disciplines came together to shape my understanding of media, marketing, and the music business. One of my favorite projects was creating a marketing campaign for a local indie band, where I learned how to combine creativity with data-driven strategies.
+
+Professionally, I’ve had the chance to grow through roles at Indie Orange, SoundMind App, and Sony Music Entertainment. At Indie Orange, I focused on sync licensing, building relationships that helped artists get their music into films and commercials. SoundMind App was where I really came into my own, leading content strategy and growing our TikTok following by 968%. At Sony, I’ve been able to combine my marketing skills with my love for music, creating campaigns like “Playlist and Paint” that bring fans closer to the artists they love.
+
+Core Values and What Drives Me
+
+Whether it’s regripping a golf club, managing a social media campaign, or serving tables in a restaurant, I’ve always believed in giving my all. My years in the restaurant industry taught me how to communicate, adapt, and thrive under pressure—skills that translate directly into my work in marketing and content creation.
+
+Above all, I’m driven by a love for storytelling and a commitment to integrity and creativity. Every role I’ve taken has been a step toward blending those values into meaningful work. For me, it’s about staying curious, being adaptable, and finding ways to connect with people—whether through a marketing campaign, a social media post, or a simple conversation. It’s this mindset that keeps me excited about what’s next.ling restaurant industry, the dynamic realm of social media, or the strategic corridors of marketing giants—contributed to a symphony of skills and insights. His journey from a creative childhood to a multifaceted professional career is a testament to his ability to adapt, innovate, and lead with both heart and intellect.
+
+As Ethan continues to navigate the ever-evolving landscapes of marketing and media, his unwavering commitment to integrity, creativity, and excellence remains the cornerstone of his professional identity. With each campaign he crafts and every partnership he forges, Ethan Welsh exemplifies the harmonious blend of passion and professionalism, poised to leave an indelible mark on the industries he so ardently serves.
+
+---
+
+Our creative content team works closely with our AI engineers and product teams in our Santa Monica office. The environment is highly collaborative - we're constantly brainstorming content ideas, getting real-time feedback on drafts, and working together to translate technical features into engaging social videos. 
+
+a) 
+This might sound a little unconventional, but one of the best collaborative experiences I’ve had wasn’t in an office, and it wasn’t even for a formal job—it happened right in my kitchen. A friend and I were spitballing ideas over coffee, and it turned into a full-blown project: “StrauntSavant,” a tool for restaurant staff that uses AI to streamline allergy safety and improve service speed. I had all these documents from the restaurant where I bartend, and we started hashing out how to pull it all together into an Apple Shortcut that could make an API call to ChatGPT. What made it special was the spontaneity. We’d hit a snag, bounce ideas around, and keep building on each other’s energy. There’s this unspoken flow that happens in person—you pick up on someone’s thought before they even finish their sentence. Those non-verbal cues, like a quick nod or an “aha” expression, kept the momentum going. By the end of the session, we didn’t just have an idea; we had a solid plan, all thanks to the kind of creative chemistry you only get when you’re sitting across the table from someone. 
+
+b)
+ For me, the perfect workspace is one where creativity just happens—no forced “let’s all be creative now” energy, ya know? I’m all about open layouts with lots of natural light, where you can overhear someone throwing out a wild idea and feel comfortable jumping in. But at the same time, I like having little pockets of quiet space. Sometimes, you need to pull back, sketch out a messy plan in a notebook, and then come back with something more polished. In terms of working with teammates, I’m big on casual, real-time collaboration. I’d rather walk over and hash things out in five minutes than sit on a thread of emails that could’ve been a quick chat. That said, I value the flexibility to step away when I need to recharge—whether that’s a solo walk or a quick coffee run. It’s all about building a vibe where people feel comfortable being themselves, sharing half-baked ideas, and knowing the team’s got their back. 
+
+c)
+ Funny thing is, I’ve already made the leap. A couple of months ago, I packed my bags, left Philly behind, and landed in West Hollywood. It’s been a ride, but honestly, I’ve always believed that growth only happens when you’re uncomfortable. Back in Philly, life was familiar, easy—but I kept thinking, Is this it? I wanted more. I wanted to push myself in a way that only a city like LA could. There’s something about throwing yourself into the deep end that forces you to adapt and grow, and I’ve always been someone who seeks out those kinds of jams. 
+
+d)
+ Since moving, I’ve been soaking up everything the city has to offer. I’ve found my favorite coffee spots, started building out my network, and fully embraced the chaos that comes with living in a place where everyone is chasing something bigger. What excites me most about LA is the energy—you can feel it in every conversation, every late-night brainstorm. It’s a city where people aren’t just dreaming; they’re doing. And that inspires me to do the same, every day. On a personal note, my girlfriend’s been a huge part of making LA feel like home (we met at an AI conference, by the way). She’s shown me the ropes, and together we’ve carved out a little slice of life here that feels equal parts grounding and inspiring. Oh, and Mike—I saw that you’re into triathlons; I should mention I once walked 51 miles around LA in a day just because I had a free Tuesday. It’s a city that dares you to push your limits, and I’m here for it. 
+
+---
+
+Walk us through your process for creating high-performing social video content from concept to publication: 
+
+a)
+ My process for developing content starts with a simple but essential question: What’s going to make people stop scrolling and engage? From there, I’m methodical about collecting insights. Whether it’s combing through comments, studying competitor strategies, or just absorbing trends in the wild, I’m always looking for patterns. At SoundMind, when we were exploring mindfulness content, I’d start with a clear problem statement: How do we make mindfulness feel personal and actionable in under 30 seconds? 
+Once I’ve got a few rough ideas, I move fast. I storyboard quick sketches—think bare-bones outlines with captions and visuals—and then I test them internally. Feedback in these early stages is gold because it allows me to refine before taking anything public. But the real validation happens once it’s live. I’m not just looking at vanity metrics like views; I’m digging into retention, comments, and whether people are sharing it. If it sparks a conversation or resonates enough for someone to tag a friend, I know we’re onto something. From there, it’s about doubling down on what works and leaving no stone unturned in the pursuit of that next big hit. 
+b)
+ In fast-paced content creation, my mantra has always been “fail fast”. Social media moves at lightning speed, and the worst thing you can do is sit on an idea for too long. At SoundMind, we had a rhythm: post, analyze, tweak, repeat. We aimed for daily uploads, even if the content wasn’t perfect, because I really believe you can’t get great without first being willing to be bad. It’s all about extracting lessons from the data—every post is a mini case study. For example, when we noticed certain videos weren’t hooking viewers early enough, we pivoted. We made small but impactful changes, like tightening the first three seconds or tweaking our text overlays. Within days, we’d see improvements. I encouraged the team to treat each post like a stepping stone. Mistakes weren’t failures; they were opportunities to gather intel and refine our strategy. This approach kept the content machine running without sacrificing our drive to improve with every iteration. 
+c)
+ Quality and speed might sound like opposites, but I see them as two sides of the same coin. The secret is in building a solid system. At SoundMind, we developed a content framework where each team member had a clear role. I’d handle creative direction and scripting while someone else focused on editing and another on captions and graphics. By breaking the process into manageable chunks, we could crank out videos quickly without compromising on polish. I also believe in having a “quality control” mindset without slowing down momentum. Before anything goes live, I do a quick final check for consistency— brand voice, visual style, captions. It doesn’t take long, but it ensures that even our fastest content feels cohesive and professional. Ultimately, high velocity is only sustainable when everyone knows their role and trusts the system we’ve put in place. 
+d) 
+ Data isn’t just a tool—it’s the foundation of everything I do. Every post is an experiment, and I treat the analytics like a report card. I’m looking for specifics: Did the hook land? Are viewers sticking around past the 3-second mark? Which calls-to-action are driving engagement? At Sony, for example, we launched a Gen Z campaign with short-form video ads. Early analytics showed a significant drop-off at the 5-second mark, so I reworked the structure of the next batch, making sure the most impactful visuals and messaging hit in the first three seconds. The result? A 25% increase in average watch time and a noticeable lift in conversions. But optimization doesn’t stop at performance metrics. I also pay close attention to qualitative feedback—comments, DMs, even the sentiment behind the shares. If people are tagging their friends or remixing our content, that tells me we’re not just being seen; we’re starting conversations. That’s the real gold. Once I’ve identified what’s working, I double down. If a particular format or style resonates, I’ll scale it up while keeping a close eye on diminishing returns. It’s a constant loop of analyzing, tweaking, and testing again. My ultimate goal is not just to perform well on one post—it’s to establish a repeatable formula for success that aligns with both brand goals and audience behavior. 
+
+---
+
+How would you build SimplyCodes' social presence from 0 to 100K engaged followers in 6 months? 
+ When it comes to building a social presence, the first thing I think about is not just how to get people to follow but how to make them want to stick around. It’s easy to chase big numbers, but if the followers aren’t engaged, those numbers don’t mean much. What I’m really focused on is creating a community—a space where people feel like they’re part of something bigger than just deals and discounts. That’s how you go from 0 to 100K engaged followers. Content that Resonates: The content has to connect on a human level, and that starts by showing people the “why” behind what we do. One thing I’ve seen work really well is behind-the.scenes content. People love seeing how things come together, especially in tech. If we can pull back the curtain on SimplyCodes—showing how the platform works, the thought process behind developing features, or even the real people behind the brand—it makes everything feel more personal. It turns social media into more than just a feed of deals; it becomes a way for people to understand and connect with the brand’s mission. Beyond that, I’d focus on interactive content. Polls, Q&As, and challenges are great, but they’re just the start. Social media should feel like a two-way street, where followers can offer feedback, share ideas, and see those ideas in action. If someone suggests a feature or improvement, we could use social to show how we’re working on it—or even ask for more input as we develop it. That kind of engagement isn’t just valuable; it makes people feel like they’re genuinely part of the process.  Specific example: At Sony, we found that behind-the-scenes videos of artist collaborations consistently performed well. One campaign featured clips of a recording session, and fans loved seeing the creative process. It didn’t just boost engagement; it created this sense of loyalty by making the audience feel like insiders. Video was always my go-to medium for self-expression growing up, so it felt natural to share these experiences. It was never about building a massive brand or gaining a huge following. It was about telling stories that resonated with people and sharing things I found exciting. That authenticity ended up being the key to building an engaged audience. The same principle applies here: peeling back the curtain and letting people in on the process makes them feel like they’re part of the journey, not just spectators. Driving Engagement Beyond Surface Metrics: Here’s the thing: metrics like likes and follows are fine, but they only tell part of the story. I’m more interested in what’s happening beneath the surface. True engagement comes from building relationships. I’d break this into two buckets: quantitative and qualitative. On the numbers side, I’d be looking at things like retention rates (how long people stay on a video), shares, and tags. But just as important are the qualitative signs— comments that show people are connecting, DMs that turn into conversations, or UGC where followers share their own savings stories. If people are tagging their friends or jumping into discussions, that’s when you know they’re not just scrolling —they’re investing their time and energy into the brand. Specific example: When I was a little over a month into managing the social media for an artist I work closely with, we noticed her quantitative metrics were strong— watch time, engagement, and audience reception were all solid. But she was frustrated by a lack of growth in her following and overall viewership. We sat down and talked about what really mattered. She said, “I just want people to listen to my music. I’d rather have 10 die-hard fans than 100 casual listeners.” That shifted our approach. We decided to start with a weekly livestream, where she could perform, chat, and engage with her audience directly. Almost immediately, it clicked. Her following jumped from 8,000 to 20,000 within two months, and more importantly, the engagement felt deeper and more personal. Scaling Without Losing the Human Touch:  As the audience grows, maintaining that personal connection is key. I’d set up systems to keep things running smoothly without losing that authenticity. Tools like Notion for content planning and Sprout Social for analytics would help us stay on track, while automating some of the more repetitive tasks. But the core of this is the team. I’d want a small, focused group—a content creator to handle the visuals, a community manager to foster engagement, and an analyst to keep us informed. Everyone plays a role, and together, we’d make sure the quality stays high even as the volume increases. Specific example: Before I took over as Director of Content at SoundMind, the team was struggling with alignment. Everyone had their own interpretation of the brand’s identity, which led to a lack of cohesion in our content. One of my first priorities was to schedule a series of collaborative in-person meetings. These weren’t about tasks or deliverables—they were about figuring out our “why.” We had deep conversations about our mission, our values, and how we wanted to be perceived. Once we distilled everything into a clear mission statement, I made it a point that every concept or piece of content needed to align with it. The team would take a quick moment before submitting anything to ask, “Does this support our mission?” Within weeks, this shift in mindset brought the entire team into alignment, resulting in more cohesive and impactful content. To Recap: At the end of the day, it’s not just about what we’re posting; it’s about how we’re making people feel. People don’t buy what you do—they buy why you do it. If we can make followers feel like they’re part of the journey, like their input matters and they’re helping shape the future of SimplyCodes, that’s where the real magic happens. Social media becomes a vessel for collaboration, not just promotion. 
+
+---
+
+SimplyCodes has a unique advantage: our AI systems and community maintain a real-time database of the best deals across all shopping categories (beauty, fashion, travel, electronics, etc.), verified hourly. This lets us spot and share amazing deals before anyone else. 
+
+ Concept and hook: The campaign would be called “Simply Decoded,” and the whole idea is to pull back the curtain on what makes SimplyCodes tick. We’d give people an inside look at how our AI and community work together to deliver these insane, real-time deals before anyone else. The hook? It’s not just another boring deals series—it’s an exclusive backstage pass into the world of AI and e-commerce. People are already fascinated by artificial intelligence, so why not let them in on how we’re using it to shake up the game? 
+Making it distinctly different: What makes this different is that it’s not about polished, generic content. It’s raw, behind-the-scenes stuff that feels real. We’d feature quick, fun clips with our engineers breaking down complex AI concepts in simple, relatable ways—like 
+explaining how our deal verification works while comparing it to something totally random, like building IKEA furniture.  Little add-on here: I’m a big fan of using humor and cultural relevance. We could do parodies of trending pop culture moments—think over-dramatized “Dateline” episodes about how we cracked the code on a $500 laptop deal or a fake “Shark Tank” pitch where we propose wild, deal-inspired inventions. These types of pieces keep things light and engaging while showcasing just how far ahead of the competition we are. (I used this once when I made a video about me simply walking to Target to buy pickles, and it got over half a million views… and that was even before I had more than a thousand followers on TikTok, so trust me.) 
+Techniques to maximize reach and engagement: To get this series in front of as many people as possible, we’d tailor each piece for the platform it’s on. On TikTok, it’s all about grabbing attention in the first second or two with bold hooks, jumpcuts, and fast edits. For Instagram, I’d lean into interactive Stories—polls, quizzes, and “Which deal should we decode next?” type of stuff. On YouTube, we’d go deeper with longer episodes breaking down major shopping categories or crazy-good deals. It’s also crucial to remember that no matter how short or long the video is, every piece of content needs to tell a story. Whether it’s a 15-second TikTok or a 5.minute YouTube breakdown, following a three-act structure—setup, conflict, resolution—keeps the audience engaged and ensures the message sticks. At the end of the day, marketing and branding are really just about telling great stories, and it’s important to never lose sight of that. (This is the trick to Instagram stories, too.) Another big piece would be user-generated content. We’d invite followers to submit their own “deal decoding” challenges or questions about how our tech works, then feature their submissions in future episodes. This way, people feel like they’re part of the process, not just passive viewers. And of course, we’d bring in influencers who fit our vibe to help amplify the series and reach new audiences. 
+Measuring success: Success for “Simply Decoded” wouldn’t just be about views and likes, though those are important. I’m more interested in the deeper stuff. Are people tagging their friends? Are they commenting things like “I never knew that!” or asking more questions? Are they sharing their own stories about how SimplyCodes helped them save? On the numbers side, I’d track metrics like retention rates and shares, but the real win is when we start seeing genuine conversations and a growing community of people who feel like they’re in on something special. That’s when you know you’re not just making content—you’re building loyalty. 
+Ideas that didn’t make the cut (aka ideas I came up with after I was about 50% finished writing up this answer, but I still wanted to include them): 
+. 
+The Deal Race: A fun, fast-paced idea where people race to find the best deals using SimplyCodes. Maybe it’s two influencers, maybe it’s audience members—who knows? The focus is on the thrill of the hunt and showing how SimplyCodes gets you to the best deals faster than anyone else. It could even turn into a friendly competition with viewers getting involved. 
+
+. 
+Battle of the Brands: Take two big brands and put them head-to-head to see who has the better deals. It’s all about leveraging SimplyCodes’ ability to pull up real-time discounts and savings. Could be anything from tech to fashion. This one’s open-ended—plenty of room to adapt depending on what’s trending. 
+
+. 
+SimplySteal or SimplySkip?: Highlight a deal and let the audience decide if it’s worth it. They vote, we reveal the results, and maybe there’s some back-and-forth in the comments about whether it’s really a steal or something to pass on. Keeps the audience involved and adds that extra layer of interactivity. It could be interesting to deploy this in more of a guerrilla marketing style… I’m going to let these ideas marinate. 
+
+
+Three Levels of Shopaholics: AI Edition 
+So here’s the idea: we break this down into three levels—beginner, intermediate, and advanced—and show people how to use AI tools at each stage to save money while shopping online. Now, if you really wanted, you could cram this into a fast-paced 60-second video, giving each level 15-20 seconds. But honestly, it’ll hit way harder if we turn it into a three-part series. Here’s why: people love following along with a series. They’ll see part one, get hooked, and either follow or like the video to make sure they don’t miss the next parts. That’s been a major driver of growth for me in the past, and I think it’d work perfectly here. 
+Level 1: Beginner (ChatGPT) This one’s for the newbies who are just starting to use AI for shopping. You’d show them how to do simple market research—like asking ChatGPT, “What’s a reasonable price range for [product]?” or “What’s a good brand for [category]?” It’s all about helping them get the basics down, so they’re making informed decisions from the start. Super easy, but super helpful. 
+Level 2: Intermediate (Gemini or Bard) Now we’re stepping it up. At this level, you’re using tools like Gemini to compare product specs or reviews. It’s like having your own shopping assistant who gives you the lowdown on what’s worth buying. You could show how to ask, “What are the pros and cons of [product] vs. [product]?” to get a quick breakdown without having to sift through endless reviews yourself. This level is all about saving time and getting to the point faster. 
+Level 3: Advanced (Perplexity) For the pros, it’s all about real-time data. Perplexity is perfect for finding the best deals that are live right now. Let’s say you’re shopping for a new laptop—you can ask Perplexity to find the top deals and even compare prices across sites in real time. The goal here is to show people how they can leverage cutting-edge AI tools to stay ahead of the game and make sure they’re actually getting the best deal, not just falling for marketing gimmicks. 
+Engagement and Structure Here’s where it gets good. At the end of each part, you could say something like, “Alright, that’s Level 1. Ready to level up? Follow for Part 2!” or “I pinned the exact prompt I used in the comments—try it out and let me know how it works for you!” By providing a prompt they can copy and use themselves, you’re adding real value and making it super easy for them to take action. The beauty of this structure is that it’s not just informative, but it also creates a loop where people want to keep coming back. It’s quick, engaging, and most importantly, it builds trust and a sense of community because you’re giving them tools they can use right away. 
+Why do you work? What gets you out of bed in the morning? 
+I work because this idea of potential drives me—both mine and the potential to create something meaningful. I’ve always had this fear of looking back one day and regret not chasing after the things I care about. For me, work is about building, creating, and connecting. It’s about putting in the effort to bring ideas to life, even if they don’t always work out, because that’s where growth happens. I’d rather fail trying than wonder “what if.” 
+I’m also a storyteller at heart. I’ve always seen marketing as more than just pushing products—it’s about giving a brand a voice, a personality that people can connect with. When done right, it turns a transaction into a relationship. What excites me about AI and the tech world is how much potential there is to innovate and tell new stories. The fast pace, the constant evolution—it’s like a playground for creativity. I love figuring out how to take something complex and make it relatable, whether that’s through content, campaigns, or just having conversations with an audience. 
+But it’s not just about what I can do alone. I thrive in collaborative environments where everyone’s working toward the same mission. There’s an energy in that kind of culture—a shared passion that pushes everyone to be better. I love being a part of a team where we can bounce ideas off each other, challenge each other, and grow together. At the same time, I’m constantly looking for ways to improve myself. Whether it’s learning from others, diving into new challenges, or even just absorbing new ideas through books or podcasts, I’m always chasing that next level. 
+At the end of the day, what gets me out of bed is the chance to make an impact. Whether it’s helping build a community, simplifying a complex idea, or just creating something that makes someone’s life a little easier, that’s what drives me. It’s about leaving things better than I found them and knowing that the work I’m doing matters. 
+Share links to your 3 most successful social video pieces. For each: 
+a) 
+What specific choices led to its success? 
+
+b) 
+How did you optimize it for the platform? 
+
+d) 
+What would you do differently now? Include specific performance data and platform-specific insights. 
+
+
+https://www.youtube.com/watch?v=g5cxaGiheAk 
+YouTube- 75k views This project was a whirlwind—a perfect storm of tight deadlines, minimal resources, and a lot of creative problem-solving. My friend came to me with a simple ask: she needed a music video for her song “Mexico” within 18 hours, and she had already shot all the footage on a 90s camcorder. When I opened the files, I saw three hours of raw, uncut footage, and I immediately knew this was going to be a sprint. I locked in, went through every clip, and crafted a music video I’m still incredibly proud of. What made this video work wasn’t just the aesthetic—it was how I approached the challenge. Even with limited time, I found ways to keep the visuals dynamic. Thematically, I wanted to make sure the pacing flowed, with each scene complementing the next, despite working with such repetitive footage. And when it was all said and done, I didn’t stop at just the YouTube version. I created vertical cuts for TikTok and Instagram, adjusting each one for platform-specific consumption, whether that meant tighter edits or reimagining sequences to fit shorter formats. If I had more time, I would’ve leaned into my love for preparation. I’m a big believer in “mise en place” for creative work—getting everything laid out and organized before starting. But in this case, the chaos pushed me to adapt quickly, and I think that adaptability speaks to my resilience and ability to execute under pressure. 
+https://www.tiktok.com/@user384263574/video/6985258671630454022? 
+is_from_webapp=1&sender_device=pc&web_id=7427172623542601258 
+TikTok- 10.1M views This video is special because it wasn’t flashy—it was just real. It’s me re-gripping a golf club, but the hook was the narration. I was walking the audience through my process, explaining not just what I was doing but why. There’s something almost hypnotic about the simplicity of it, and I think that’s why it resonated. It’s early enough in my content creation journey that you can see the hunger—I’m experimenting, learning, and really pushing to figure out what works. On TikTok, engagement metrics like watch time are king. I optimized this video by keeping it under a minute and layering in fast cuts with multiple angles to keep the visuals fresh. I also used trending audio, even if I muted it, because TikTok’s algorithm prioritizes content that rides those waves. Every little detail was deliberate—down to the captions and tags. I had a direct line to TikTok’s team through a partnership, so I got to experiment with new features like narration, which helped push this video even further. If I could tweak anything, I’d maybe experiment with slightly higher production values without losing that raw, organic feel. It’s a balancing act—too polished, and it stops feeling authentic. But I’d love to see if there’s a sweet spot where I could elevate the quality just a bit while keeping that TikTok magic. 
+https://www.tiktok.com/@user384263574/video/6996700542680468742? 
+is_from_webapp=1&sender_device=pc&web_id=7427172623542601258 
+TikTok- 721.9K views This video was an experiment in stripping everything down. No captions, no narration, no music—just raw visuals and sound. At the time, ASMR content was on the rise, and I wanted to see if I could capture that same attention-grabbing quality without relying on any of the usual crutches. It worked. Over 700,000 views later, it proved that simplicity, when done right, can be just as powerful as high-production content. The key here was relentless pacing. Every two or three seconds, the angle shifts, keeping the viewer locked in. I also leveraged a strategic hashtag funnel—starting broad and narrowing to hyper-specific—to maximize reach while targeting the right audience. It was a methodical approach to ensure the video performed well across the board, and it paid off. Looking back, I’d focus on two things: refining the environment and pushing the visual pacing even further. The setting could’ve been more polished, and tighter cuts might’ve encouraged more shares. I think the content’s quality made it interesting, but there’s a difference between interesting and shareable. Next time, I’d add a bit of humor or a quirky element to increase the likelihood of shares without losing the simplicity that made this piece work. 
+Final Thoughts: These three videos showcase not just my ability to create engaging content but also my versatility across different platforms. I know how to lean into each platform’s strengths, optimize for their algorithms, and produce work that resonates with their audiences. Whether it’s adapting quickly under pressure or experimenting with new formats, I bring a creative, data-driven approach that consistently delivers results. 
+Please record a 2-3 minute video introducing yourself and explaining why you're interested in working for Demand.io. Also touch on our culture and why you believe you're a fit with us. 
