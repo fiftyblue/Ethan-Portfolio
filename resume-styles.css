@@ -155,36 +155,123 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .resume-header h1 {
-        font-size: 2.5rem;
+    .resume-container {
+        padding: 1rem;
+        margin-top: 60px;
     }
-    
+
+    .resume-header {
+        margin-bottom: 2rem;
+        padding: 2rem 0;
+    }
+
+    .resume-header h1 {
+        font-size: 2rem;
+        margin-bottom: 0.5rem;
+    }
+
     .resume-header h2 {
         font-size: 1.25rem;
+        margin-bottom: 1.5rem;
     }
-    
+
     .contact-info {
         flex-direction: column;
         gap: 1rem;
-        align-items: center;
     }
-    
+
+    .resume-section {
+        margin-bottom: 2.5rem;
+    }
+
+    .resume-section h2 {
+        font-size: 1.75rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .experience-item, 
+    .achievement-item, 
+    .education-item {
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
     .experience-header {
         flex-direction: column;
         gap: 0.5rem;
     }
+
+    .experience-header h3 {
+        font-size: 1.25rem;
+    }
+
+    .company,
+    .date {
+        display: block;
+    }
+
+    .experience-item ul {
+        padding-left: 1rem;
+    }
+
+    .experience-item li {
+        margin-bottom: 0.75rem;
+    }
+
+    .achievements-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .achievement-card {
+        padding: 1.5rem;
+    }
+
+    .achievement-card h3 {
+        font-size: 1.5rem;
+    }
+
+    .skills-container {
+        gap: 1.5rem;
+    }
+
+    .skills-group {
+        padding: 1.5rem;
+    }
+
+    .skill-tags {
+        gap: 0.75rem;
+    }
+
+    .skill-tags span {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
 }
 
 @media (max-width: 480px) {
-    .resume-container {
-        padding: 1rem;
-    }
-    
     .resume-header h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
-    
+
+    .resume-header h2 {
+        font-size: 1.1rem;
+    }
+
     .resume-section h2 {
         font-size: 1.5rem;
+    }
+
+    .experience-header h3 {
+        font-size: 1.2rem;
+    }
+
+    .achievement-card h3 {
+        font-size: 1.25rem;
+    }
+
+    .skill-tags span {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
     }
 } 
